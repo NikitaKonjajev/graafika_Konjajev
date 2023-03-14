@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "graafika_Konjajev", "graafika_Konjajev\graafika_Konjajev.pyproj", "{790E18F0-6E61-4728-B147-B595C915AE7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2F0AEF0F-91E1-4738-B29E-D8D71190A8A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{790E18F0-6E61-4728-B147-B595C915AE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790E18F0-6E61-4728-B147-B595C915AE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F85BAA-A565-40FC-ABBF-F8C11F00BBD8}
+	EndGlobalSection
+EndGlobal
