@@ -55,4 +55,3 @@ tekst_kast.pack()#side=LEFT,RIGHT
 nupp.pack()
 raam.pack()
 aken.mainloop()
-a
